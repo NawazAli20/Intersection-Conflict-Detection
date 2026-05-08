@@ -8,7 +8,7 @@ This project is designed to detect and manage potential conflicts between vehicl
 For further insights and an in-depth explanation of the methodologies used, refer to our research paper on this topic:
 
 **Paper Title**: *Large Language Models (LLMs) as Traffic Control Systems at Urban Intersections: A New Paradigm*
-Paper link: https://www.mdpi.com/2624-8921/7/1/11
+Paper link: [https://www.mdpi.com/2624-8921/7/1/11] (https://www.mdpi.com/2624-8921/7/1/11)
 
 **Authors**: 
 - **Sari Masri**:  [s.masri3@student.aaup.edu](mailto:s.masri3@student.aaup.edu), [sarimasri3@gmail.com](mailto:sarimasri3@gmail.com)
